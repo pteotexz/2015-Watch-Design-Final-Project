@@ -11,5 +11,5 @@ I made 2 different designs that I thought would be a solution for a wrist strap.
 ### Final Design
 ![image](https://github.com/pteotexz/2015-Watch-Design-Final-Project/assets/39016104/29cc0149-c98b-45d9-bb13-0af9536c1a2a)
 This is how I would like the final product to look like. 
-### Watch Assemby Annimation/YouTube Video
+### Watch Assemby Animation/YouTube Video
 https://youtu.be/Ij4VuGYizu4
