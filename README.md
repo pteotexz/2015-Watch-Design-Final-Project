@@ -12,4 +12,4 @@ I made 2 different designs that I thought would be a solution for a wrist strap.
 ![image](https://github.com/pteotexz/2015-Watch-Design-Final-Project/assets/39016104/29cc0149-c98b-45d9-bb13-0af9536c1a2a)
 This is how I would like the final product to look like. 
 ### Watch Assemby Annimation/YouTube Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ij4VuGYizu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/Ij4VuGYizu4
