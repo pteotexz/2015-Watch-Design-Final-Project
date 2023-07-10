@@ -5,3 +5,4 @@
 The purpose of this project is to challenge the skills learned in CADD Class to create a design that solves a problem utilizing AutoDesk Inventor.
 ### Watch Assembly
 ![image](https://github.com/pteotexz/2015-Watch-Design-Final-Project/assets/39016104/cf2c8659-bd3e-4496-8d30-40afdf619c0f)
+![image](https://github.com/pteotexz/2015-Watch-Design-Final-Project/assets/39016104/0afab30a-c837-438f-8ebc-d4872b84b490)
